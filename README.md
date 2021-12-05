@@ -101,4 +101,4 @@ For storing credentials in the main part of the application, we can't hash passw
 
 
 
-All of us here at *Simple Cloud storage* e wish you good luck !
+All of us here at **Simple Cloud storage** e wish you good luck !
